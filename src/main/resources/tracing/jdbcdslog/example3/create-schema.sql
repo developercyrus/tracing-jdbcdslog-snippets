@@ -1,0 +1,1 @@
+create table tracing_jdbcdslog_example3.cheese(name varchar(20), strength int)
